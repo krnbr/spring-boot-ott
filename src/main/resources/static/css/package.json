@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "tailwindcss": "^3.4.15"
+  },
+  "dependencies": {
+    "daisyui": "^4.12.14",
+    "@material-tailwind/html": "^2.3.2"
+  },
+  "scripts": {
+    "watch": "npx tailwindcss -i tw.styles.css -o styles.css --watch",
+    "build": "npx tailwindcss -i tw.styles.css -o styles.min.css --minify"
+  }
+}
