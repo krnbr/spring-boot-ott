@@ -1,4 +1,4 @@
-This one it coupled up with the blog post here - https://medium.com/@neuw/spring-boot-passwordless-login-using-ott-along-with-custom-ui-470f117b8e13
+This one is coupled with the blog post here - https://medium.com/@neuw/spring-boot-passwordless-login-using-ott-along-with-custom-ui-470f117b8e13
 
 Add these entries with two users, **user** and **admin**, and password = **test**
 
